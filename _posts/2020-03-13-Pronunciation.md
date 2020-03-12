@@ -38,3 +38,45 @@ sausage / 써씨쥐\
 because / 비커z\
 cost / 커스트\
 lost / 러스트\
+
+## 슈와 현상
+**강세가 없는 음절의 모음 발음이 중성모음 "으"로 약화되는 현상**\
+\
+a**bout** / 으바웃\
+a**mong** / 으몽\
+a**no**ther / 으나드\
+ac**ces**sories / 윽쎄쓰뤼스\
+a**part**ment / 으팔트믄트\
+be**fore** / 브포얼
+**tic**ket / 티끗
+**mar**ket / 말끗
+**wal**let / 왈릇
+**bul**let train / 불릇 트레인
+**out**let mall / 아웃릇 몰
+
+to**day** / 트데이
+to**night** / 트나이트
+to**mo**rrow / 트마르
+**se**parately / 세쁘릇틀리
+com**pu**ter / 큼퓨러
+com**pare** / 큼페어
+con**cern** / 큰써-언
+con**tain** / 큰테인
+de**vice** / 드바이스
+**stu**dent / 스튜든트
+**re**cently / 리쓴리
+**fresh**man / 프뤠시믄
+po**lice** / 플리쓰
+per**cent** / 프쎈트
+per**form** / 프폼
+per**for**mance / 프포믄쓰
+**an**ni**ver**sary / 애느벌쓰뤼
+par**ti**cipate / 프티쓰페이트
+**can**didate / 캔드듯
+se**cu**rity / 쓰큐르티
+Ko**rea** / 크뤼아
+Ja**pan** / 즈팬
+**dif**ferent / 디프른트
+**in**terested / 인트르스티드
+**moun**tains / 마운튼스
+
