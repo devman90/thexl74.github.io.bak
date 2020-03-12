@@ -1,4 +1,4 @@
-# 선택형 주제: newspapers 신문\
+# 선택형 주제: newspapers 신문
 
 **01. [Int] 본인이 가장 좋아하는 신문과 그 이유**\
 Tell me about one of your favorite newspapers and why you like it.\
