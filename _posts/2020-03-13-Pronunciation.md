@@ -19,20 +19,20 @@ concert / 컨썰트\
 option / 업션\
 office / 어삐스\
 often / 어쁜\
-open / 오우~쁜\
+open / 오우-쁜\
  \
-all / 어~얼\
-tall / ㅌ어~얼\
+all / 어-얼\
+tall / ㅌ어-얼\
 ball / mall / small / fall\
  \
-all the time / always / also / almost / 어~얼\
+all the time / always / also / almost / 어-얼\
 walk / 웤\
 work / 월크\
 solve / 써-얼\
  \
 song / 썽\
 sorry / 써뤼\
-audio / 어~리오\
+audio / 어-리오\
 sause / 써쓰\
 sausage / 써씨쥐\
 because / 비커z\
