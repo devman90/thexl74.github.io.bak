@@ -25,7 +25,7 @@ all / 어~얼\
 tall / ㅌ어~얼\
 ball / mall / small / fall\
 \
-all the time / always / also / almost \[어~얼\]\
+all the time / always / also / almost [어~얼]\
 walk / 웤\
 work / 월크\
 solve / 써-얼\
