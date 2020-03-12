@@ -7,10 +7,10 @@
 - /l/ /r/ 발음이 구분이 안 되거나 반대로 발음하는 오류\
 
 ## 주요 오류
-- 모음 발음 오류\
-- 경음화 발음 오류\
-- 설탄음 발음 오류\
-- 영어 강세 오류\
+- 모음 발음 오류
+- 경음화 발음 오류
+- 설탄음 발음 오류
+- 영어 강세 오류
 
 ## /오/ -> /어/
 on the internet / 언 디 인터넷\
@@ -20,16 +20,16 @@ option / 업션\
 office / 어삐스\
 often / 어쁜\
 open / 오우~쁜\
-\
+ \
 all / 어~얼\
 tall / ㅌ어~얼\
 ball / mall / small / fall\
-\
+ \
 all the time / always / also / almost / 어~얼\
 walk / 웤\
 work / 월크\
 solve / 써-얼\
-\
+ \
 song / 썽\
 sorry / 써뤼\
 audio / 어~리오\
